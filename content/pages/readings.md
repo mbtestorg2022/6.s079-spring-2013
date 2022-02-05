@@ -9,19 +9,150 @@ Pre-lab Readings
 
 Readings assigned with each pre-lab are listed in the table below.
 
-| LAB TOPICS | READINGS |
-| --- | --- |
-| 1: CD Spectrometer | "[Cell Phones Facilitate Spectrometry](http://www.photonics.com/Article.aspx?AID=44674)." _Photonics.com_, October 19, 2010. |
-| 2: Holography | Greenemeier, Larry. "[Holographic Film for 3-D, Sans Those Silly Specs](http://www.scientificamerican.com/article.cfm?id=hologram-photoreflective-polymer-film)." _Scientific American_, March 3, 2008. |
-| 3: ZnS:Cu LED | Craford, M. George, Nick Holonyk, Jr. et al. "[In Pursuit of the Ultimate Lamp](https://www.scientificamerican.com/article/in-pursuit-of-the-ultimate-lamp/)." _Scientific American_ 284 (2001): 62–7. |
-| 4: Organic LED | Howard, Webster E. "[Better Displays with Organic Film](http://www.scientificamerican.com/article.cfm?id=better-displays-with-orga)." _Scientific American_, January 12, 2004. |
-| 5: Paper Microfluidics |  {{< br >}}{{< br >}} Choi, Charles Q. "[Big Lab on a Tiny Chip](http://www.scientificamerican.com/article.cfm?id=big-lab-on-a-tiny-chip)." _Scientific American_, September 16, 2007. {{< br >}}{{< br >}} Heger, Monica. "[Cheap Microfluidic Devices Made From Paper and Tape](http://spectrum.ieee.org/biomedical/devices/cheap-microfluidic-device-made-from-paper-and-tape)." _IEEE Spectrum_, December 1, 2008. {{< br >}}{{< br >}} Mearns, Freya. "[Microfluidics in a FLASH](http://www.rsc.org/Publishing/ChemTech/Volume/2008/11/flashmicrofluidics.asp)." _Highlights in Chemical Technology_, September 10, 2008. {{< br >}}{{< br >}}  |
-| 6: PDMS Microfluidics | Whitesides, G. M., and J. C. Love. "The Art of Building Small." _Scientific American_ 285 (2001): 38–47. |
-| 7: Electrophoresis | Gel Electrophoresis Virtual Lab, University of Utah. "[Electrophoresis Tutorial](http://learn.genetics.utah.edu/content/labs/gel/)." |
-| 8: Doping |  {{< br >}}{{< br >}} Verhoeven, John D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Mystery of Damascus Blades." (PDF)](http://www.hefajstos.agh.edu.pl/files/[2001]%20The%20mystery%20of%20damascus%20sblades%20-%20J.%20Verhoeven.pdf) _Scientific American_ 284 (2001): 74–9. {{< br >}}{{< br >}} Greenemeier, Larry. "[Making Plastic as Strong as Steel](http://www.scientificamerican.com/article.cfm?id=making-plastic-as-strong)." _Scientific American_, October 11, 2007. {{< br >}}{{< br >}}  |
-| 9: Piezoelectricity and Thermoelectricity | Imaging Technology Group, University of Illinois. "[Atomic Microscopy (AFM) Tutorial](http://virtual.itg.uiuc.edu/training/AFM_tutorial/)." |
-| 10: Organic Photovoltaics |  {{< br >}}{{< br >}} Millenniumprize. "Laureate 2010: Michael Grätzel." April 14, 2010. YouTube. [http://www.youtube.com/watch?v=3GAIvFDSNa4](http://www.youtube.com/watch?v=3GAIvFDSNa4) {{< br >}}{{< br >}} Patel, Prachi. "[Dye-Sensitized Solar to Go](https://www.technologyreview.com/2009/10/21/208724/dye-sensitized-solar-to-go/#:~:text=The%20low%2Dcost%20cells%20make,debut%20on%20electronics%2Dcharging%20bags.&text=The%20first%20commercial%20product%20to,soon%20be%20on%20the%20market.&text=The%20dye%20absorbs%20light%20and,then%20out%20into%20a%20circuit.)." _MIT Technology Review_, October 21, 2009. {{< br >}}{{< br >}}  |
-| 11: Silicon Photovoltaics |  {{< br >}}{{< br >}} Zweibel, Ken, James Mason, et al. "[A Solar Grand Plan](http://www.scientificamerican.com/article.cfm?id=a-solar-grand-plan)." _Scientific American_, December 16, 2007. {{< br >}}{{< br >}} National Renewable Energy Lab. "[Learning—Solar Photovoltaic Technology Basics](https://www.nrel.gov/research/re-photovoltaics.html)." {{< br >}}{{< br >}} U.S. Department of Energy. "[Energy Basics: Crystalline Silicon Photovoltaic Cells](https://www.energy.gov/eere/solar/crystalline-silicon-photovoltaics-research)." {{< br >}}{{< br >}} U.S. Department of Energy. "[Energy Basics: Semiconductors and the Built-In Electric Field for Crystalline Silicon Photovoltaic Cells](http://energy.gov/eere/energybasics/articles/photovoltaic-crystalline-silicon-cell-basics)." {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1: CD Spectrometer
+{{< tdclose >}}
+{{< tdopen >}}
+"[Cell Phones Facilitate Spectrometry](http://www.photonics.com/Article.aspx?AID=44674)." _Photonics.com_, October 19, 2010.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2: Holography
+{{< tdclose >}}
+{{< tdopen >}}
+Greenemeier, Larry. "[Holographic Film for 3-D, Sans Those Silly Specs](http://www.scientificamerican.com/article.cfm?id=hologram-photoreflective-polymer-film)." _Scientific American_, March 3, 2008.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3: ZnS:Cu LED
+{{< tdclose >}}
+{{< tdopen >}}
+Craford, M. George, Nick Holonyk, Jr. et al. "[In Pursuit of the Ultimate Lamp](https://www.scientificamerican.com/article/in-pursuit-of-the-ultimate-lamp/)." _Scientific American_ 284 (2001): 62–7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4: Organic LED
+{{< tdclose >}}
+{{< tdopen >}}
+Howard, Webster E. "[Better Displays with Organic Film](http://www.scientificamerican.com/article.cfm?id=better-displays-with-orga)." _Scientific American_, January 12, 2004.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5: Paper Microfluidics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Choi, Charles Q. "[Big Lab on a Tiny Chip](http://www.scientificamerican.com/article.cfm?id=big-lab-on-a-tiny-chip)." _Scientific American_, September 16, 2007.
+
+Heger, Monica. "[Cheap Microfluidic Devices Made From Paper and Tape](http://spectrum.ieee.org/biomedical/devices/cheap-microfluidic-device-made-from-paper-and-tape)." _IEEE Spectrum_, December 1, 2008.
+
+Mearns, Freya. "[Microfluidics in a FLASH](http://www.rsc.org/Publishing/ChemTech/Volume/2008/11/flashmicrofluidics.asp)." _Highlights in Chemical Technology_, September 10, 2008.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6: PDMS Microfluidics
+{{< tdclose >}}
+{{< tdopen >}}
+Whitesides, G. M., and J. C. Love. "The Art of Building Small." _Scientific American_ 285 (2001): 38–47.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7: Electrophoresis
+{{< tdclose >}}
+{{< tdopen >}}
+Gel Electrophoresis Virtual Lab, University of Utah. "[Electrophoresis Tutorial](http://learn.genetics.utah.edu/content/labs/gel/)."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8: Doping
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Verhoeven, John D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Mystery of Damascus Blades." (PDF)](http://www.hefajstos.agh.edu.pl/files/[2001]%20The%20mystery%20of%20damascus%20sblades%20-%20J.%20Verhoeven.pdf) _Scientific American_ 284 (2001): 74–9.
+
+Greenemeier, Larry. "[Making Plastic as Strong as Steel](http://www.scientificamerican.com/article.cfm?id=making-plastic-as-strong)." _Scientific American_, October 11, 2007.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9: Piezoelectricity and Thermoelectricity
+{{< tdclose >}}
+{{< tdopen >}}
+Imaging Technology Group, University of Illinois. "[Atomic Microscopy (AFM) Tutorial](http://virtual.itg.uiuc.edu/training/AFM_tutorial/)."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10: Organic Photovoltaics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Millenniumprize. "Laureate 2010: Michael Grätzel." April 14, 2010. YouTube. [http://www.youtube.com/watch?v=3GAIvFDSNa4](http://www.youtube.com/watch?v=3GAIvFDSNa4)
+
+Patel, Prachi. "[Dye-Sensitized Solar to Go](https://www.technologyreview.com/2009/10/21/208724/dye-sensitized-solar-to-go/#:~:text=The%20low%2Dcost%20cells%20make,debut%20on%20electronics%2Dcharging%20bags.&text=The%20first%20commercial%20product%20to,soon%20be%20on%20the%20market.&text=The%20dye%20absorbs%20light%20and,then%20out%20into%20a%20circuit.)." _MIT Technology Review_, October 21, 2009.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11: Silicon Photovoltaics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Zweibel, Ken, James Mason, et al. "[A Solar Grand Plan](http://www.scientificamerican.com/article.cfm?id=a-solar-grand-plan)." _Scientific American_, December 16, 2007.
+
+National Renewable Energy Lab. "[Learning—Solar Photovoltaic Technology Basics](https://www.nrel.gov/research/re-photovoltaics.html)."
+
+U.S. Department of Energy. "[Energy Basics: Crystalline Silicon Photovoltaic Cells](https://www.energy.gov/eere/solar/crystalline-silicon-photovoltaics-research)."
+
+U.S. Department of Energy. "[Energy Basics: Semiconductors and the Built-In Electric Field for Crystalline Silicon Photovoltaic Cells](http://energy.gov/eere/energybasics/articles/photovoltaic-crystalline-silicon-cell-basics)."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Paper Review
 ------------

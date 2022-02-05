@@ -4,16 +4,358 @@ title: Labs
 uid: d59b0e1d-7dd2-6659-6386-617fda458ad0
 ---
 
-| LAB TOPICS | SLIDES | PRE-LABS | LAB RESOURCES{{< anchor "1" >}}{{< /anchor >}} |
-| --- | --- | --- | --- |
-| 1: CD Spectrometer |  {{< br >}}{{< br >}} [Lecture slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_s079s13_slides01) {{< br >}}{{< br >}} [Lab slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides01) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab01) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab01) {{< br >}}{{< br >}} [Spectrometer calibration (M)]({{< baseurl >}}/resources/spectrum_calculate_cd_spectrometer) {{< br >}}{{< br >}} {{< anchor "2" >}}{{< /anchor >}} |
-| 2: Holography |  {{< br >}}{{< br >}} [Lecture slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_s079s13_slides02) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides02) {{< br >}}{{< br >}} {{< anchor "3" >}}{{< /anchor >}} |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab02) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab02) {{< br >}}{{< br >}}  |
-| 3: ZnS:Cu LED |  {{< br >}}{{< br >}} [Lecture slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_s079s13_slides03) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides03) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab03) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab03) {{< br >}}{{< br >}}  |
-| 4: Organic LED |  {{< br >}}{{< br >}} [Lecture slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mit6_s079s13_slides04) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides04) {{< br >}}{{< br >}} {{< anchor "5" >}}{{< /anchor >}} |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab04) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab04) {{< br >}}{{< br >}}  |
-| 5: Paper Microfluidics |  {{< br >}}{{< br >}} [Lecture slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mit6_s079s13_slides05) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides05) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab05) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab05) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Paper template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_papertemp) {{< br >}}{{< br >}} {{< anchor "6" >}}{{< /anchor >}} |
-|  {{< br >}}{{< br >}} 6: PDMS Microfluidics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lecture slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_s079s13_slides06) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides06) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab06) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab06) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDMS template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_pdmstemp) {{< br >}}{{< br >}}  |
-| 7: Electrophoresis |  {{< br >}}{{< br >}} [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_slides07) {{< br >}}{{< br >}} [Lab slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides07) {{< br >}}{{< br >}} {{< anchor "8" >}}{{< /anchor >}} |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab07) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab07) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8: Doping {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_slides08) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides08) {{< br >}}{{< br >}} {{< anchor "9" >}}{{< /anchor >}} |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab08) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab08) {{< br >}}{{< br >}}  |
-| 9: Piezoelectricity and Thermoelectricity |  {{< br >}}{{< br >}} [Lecture slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_s079s13_slides09) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides09) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab09) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab09) {{< br >}}{{< br >}}  |
-| 10: Organic Photovoltaics |  {{< br >}}{{< br >}} [Lecture slides (PDF)  {{< br >}}]({{< baseurl >}}/resources/mit6_s079s13_slides10) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides10) {{< br >}}{{< br >}} {{< anchor "11" >}}{{< /anchor >}} |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab10) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab10) {{< br >}}{{< br >}}  |
-| 11: Silicon Photovoltaics |  {{< br >}}{{< br >}} [Lecture slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit6_s079s13_slides11) {{< br >}}{{< br >}} [Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides11) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab11) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab11) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+{{< thopen >}}
+PRE-LABS
+{{< thclose >}}
+{{< thopen >}}
+LAB RESOURCES{{< anchor "1" >}}{{< /anchor >}}
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1: CD Spectrometer
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_s079s13_slides01)
+
+[Lab slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides01)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab01)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab01)
+
+[Spectrometer calibration (M)]({{< baseurl >}}/resources/spectrum_calculate_cd_spectrometer)
+
+{{< anchor "2" >}}{{< /anchor >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2: Holography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_s079s13_slides02)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides02)
+
+{{< anchor "3" >}}{{< /anchor >}}
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab02)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab02)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3: ZnS:Cu LED
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit6_s079s13_slides03)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides03)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab03)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab03)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4: Organic LED
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mit6_s079s13_slides04)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides04)
+
+{{< anchor "5" >}}{{< /anchor >}}
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab04)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab04)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5: Paper Microfluidics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mit6_s079s13_slides05)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides05)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab05)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab05)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Paper template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_papertemp)
+
+{{< anchor "6" >}}{{< /anchor >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6: PDMS Microfluidics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_s079s13_slides06)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides06)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab06)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab06)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDMS template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_pdmstemp)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7: Electrophoresis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_slides07)
+
+[Lab slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides07)
+
+{{< anchor "8" >}}{{< /anchor >}}
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab07)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab07)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8: Doping
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_slides08)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides08)
+
+{{< anchor "9" >}}{{< /anchor >}}
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab08)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab08)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9: Piezoelectricity and Thermoelectricity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_s079s13_slides09)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides09)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab09)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab09)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10: Organic Photovoltaics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF)  
+]({{< baseurl >}}/resources/mit6_s079s13_slides10)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides10)
+
+{{< anchor "11" >}}{{< /anchor >}}
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab10)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab10)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11: Silicon Photovoltaics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit6_s079s13_slides11)
+
+[Lab slides (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab_slides11)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab exercises (PDF)]({{< baseurl >}}/resources/mit6_s079s13_prelab11)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab11)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
