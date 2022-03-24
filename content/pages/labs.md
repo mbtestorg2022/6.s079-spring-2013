@@ -166,7 +166,7 @@ LAB RESOURCES{{< anchor "1" >}}{{< /anchor >}}
 
 [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab05)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Paper template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_papertemp)
+[Paper template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_papertemp)
 
 {{< anchor "6" >}}{{< /anchor >}}
 {{< tdclose >}}
@@ -201,7 +201,7 @@ LAB RESOURCES{{< anchor "1" >}}{{< /anchor >}}
 
 [Lab measurement sheet (PDF)]({{< baseurl >}}/resources/mit6_s079s13_lab06)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDMS template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_pdmstemp)
+[PDMS template (PDF)]({{< baseurl >}}/resources/mit6_s079s13_pdmstemp)
 
 
 {{< tdclose >}}
